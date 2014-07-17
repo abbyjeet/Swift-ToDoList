@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ToDoListTests.ToDoListTests.testUpdateTask (ToDoListTests.ToDoListTests)() -&gt; ():ToDoListTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "((Swift.String, Swift.String))test">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
